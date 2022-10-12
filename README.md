@@ -7,11 +7,11 @@ Esse projeto tem como objetivo utilizar uma camêra do computador para indentifi
 
 > O projeto utilizou para o aprendizado da inteligência artificial, imagens retiradas do *Google*. Por isso não pode e não deve ser utilizado para diagnostico médico, visto que as imagens utilizidas podem ter sido alteradas ou não corresponder às marcas da doença
 
-##Membros do Grupo:
+Membros do Grupo:
 - Flávia Alessandra Elugo da Silva
 - Gabriel Eduardo de Oliveira Santos
 - Gabriella Pereira Morais
 - Sara Maria Falcão
 
-##Download do modelo e do checkpoint da IA
+Download do modelo e do checkpoint da IA
 [Link do Google Drive](https://drive.google.com/drive/folders/1hVs8NXezPNPsStefC4GCwavip0HYurPv?usp=sharing)
