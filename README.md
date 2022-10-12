@@ -1,1 +1,2 @@
-<h1 align="center"> Monkey Pox </h1> 
+<h1 align="center"> Scanner Monkeypox </h1> 
+> Detecção da Doença Através do Reconhecimento Facial
